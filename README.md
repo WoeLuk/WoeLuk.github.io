@@ -1,4 +1,4 @@
-# 🏎️ Formula OverviewAdd commentMore actions
+# 🏎️ Formula Overview
 
 **Formula Overview** is a modern web application providing live and historical data about Formula 1. It offers detailed insights into races, drivers, constructors, and live timing to give fans a comprehensive view of the world of F1.
 
